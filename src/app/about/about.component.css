@@ -19,7 +19,7 @@
   flex-wrap: wrap; /* Allow wrapping of items inside capsule */
 }
 
-.about-item i {
+.about-item > i {
   margin-right: 15px;
   color: #6a11cb; /* Matching icon color */
 }

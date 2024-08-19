@@ -35,7 +35,7 @@
   gap: 5px; /* Space between capsules */
 }
 
-.skill-values .capsule {
+.skill-values >  .capsule {
   background-color: #d3d3d3; /* Silver color for individual capsules */
   border-radius: 50px;
   padding: 5px 10px;
@@ -47,7 +47,7 @@
   white-space: nowrap; /* Prevent capsule text from wrapping inside */
 }
 
-.skill-values .capsule:hover {
+.skill-values > .capsule:hover {
   background-color: #b0b0b0; /* Darker silver on hover */
 }
 

@@ -25,7 +25,7 @@
   text-align: center; /* Center-align text */
 }
 
-.nav-link i {
+.nav-link >  i {
   margin-right: 8px; /* Space between the icon and the text */
   font-size: 1.2rem; /* Slightly larger icon for visibility */
 }

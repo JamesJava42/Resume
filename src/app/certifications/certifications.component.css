@@ -18,7 +18,7 @@
   transition: transform 0.3s ease, background-color 0.3s ease; /* Hover effect */
 }
 
-.certification-item i {
+.certification-item  > i {
   margin-right: 15px;
   color: #6a11cb; /* Matching icon color */
 }
